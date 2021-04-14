@@ -66,6 +66,7 @@ const signUpFormSignupButtonAction = () => {
     signupFormNode.style["display"] = "none";
     successNode.style["display"] = "none";
     loginFormNode.style["display"] = "block";
+    alert("SignedUp Successfully !! \n Please Login.");
 }
 
 
