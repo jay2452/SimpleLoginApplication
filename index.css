@@ -1,0 +1,12 @@
+.signup-form {
+    display: none;
+}
+
+
+.login-form {
+    display: block;
+}
+
+#login-successfull {
+    display: none;
+}
